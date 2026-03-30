@@ -176,6 +176,18 @@ D:/IPL/
 
 ---
 
+## Data Source
+
+The dataset is sourced from Kaggle:
+
+**[IPL Complete Dataset (2008–2024)](https://www.kaggle.com/)** — `ipl_2008_2024_complete.csv`
+
+It covers every IPL match from the inaugural 2008 season through 2024, with one row per innings per match. The file includes pre-computed columns for run rate, phase-level stats, toss outcomes, and boundary counts.
+
+To use this project, download the CSV from Kaggle and place it in the `D:/IPL/` root directory alongside `app.py`.
+
+---
+
 ## Data Notes
 
 | Topic | Detail |
